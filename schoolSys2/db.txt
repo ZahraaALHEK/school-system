@@ -1,0 +1,8 @@
+user=root
+password=W@2915djkq#
+dburl=jdbc:mysql://localhost:3306/schooldatal
+database name:schooldatal
+database tabel :
+    1-signup:idsignup,name,email,pass
+    2-students:id , name , gendre , age,mbnb , grade
+    3-employee:id,name,age,gender,salary,type
